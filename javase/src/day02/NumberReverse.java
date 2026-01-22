@@ -12,7 +12,7 @@ public class NumberReverse{
         int shi=num/10%10;
         int ge=num%10;
         int reversenum=ge*100 + shi*10 + bai;
-        System.out.println("反转之后的结果："+reversenum);
+        System.out.println("反转之后的结果是："+reversenum);
 
     }
 }
