@@ -4,17 +4,17 @@ package day01;
     public class Bank{
         public static void main(String[] args){
             System.out.println("======================");
-            System.out.println("               ½»Í¨ÒøĞĞ");
+            System.out.println("               äº¤é€šé“¶è¡Œ");
             System.out.println("Bank of Communications");
             System.out.println("======================");
-            System.out.println(        "»¶Ó­¹âÁÙ½»Í¨ÒøĞĞ");
-            System.out.println("ÄúĞèÒª°ìÀíµÄÒµÎñÊÇ£ºÏÖ½ğ»ã¿î");
-            System.out.println("             ÄúµÄÅÅ¶ÓºÅÊÇ£º");
+            System.out.println(        "æ¬¢è¿å…‰ä¸´äº¤é€šé“¶è¡Œ");
+            System.out.println("æ‚¨éœ€è¦åŠç†çš„ä¸šåŠ¡æ˜¯ï¼šç°é‡‘æ±‡æ¬¾");
+            System.out.println("             æ‚¨çš„æ’é˜Ÿå·æ˜¯ï¼š");
             System.out.println("                 Q3019");
-            System.out.println("     ÄúÇ°Ãæ»¹ÓĞµÈ´ıÈËÊı£º11ÈË");
+            System.out.println("     æ‚¨å‰é¢è¿˜æœ‰ç­‰å¾…äººæ•°ï¼š11äºº");
             System.out.println("2022-06-10    12:22:22");
-            System.out.println("ÎÂÜ°ÌáÊ¾£º°ìÀíÒµÎñĞèÒªĞ¯´ø");
-            System.out.println("         Éí·İÖ¤µÈÓĞĞ§Ö¤¼ş");
+            System.out.println("æ¸©é¦¨æç¤ºï¼šåŠç†ä¸šåŠ¡éœ€è¦æºå¸¦");
+            System.out.println("         èº«ä»½è¯ç­‰æœ‰æ•ˆè¯ä»¶");
         }
     }
 
