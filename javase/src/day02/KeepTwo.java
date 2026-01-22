@@ -9,7 +9,7 @@ public class KeepTwo {
         System.out.print("请输入一个小数");
         double d = sc.nextDouble();
         double result = (int) (d*100)/100.0;
-        System.out.printf("结果：%.2f\n",result);
+        System.out.printf("结果是：%.2f\n",result);
 
     }
 }
