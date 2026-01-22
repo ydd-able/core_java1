@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class NumberReverse{
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
+        Scanner  sc = new Scanner(System.in);
         System.out.println("请输入三个整数");
         int num=sc.nextInt();
         int bai=num/100;
